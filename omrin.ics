@@ -2,8 +2,50 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//WasteCollection//omrin.nl//
 BEGIN:VEVENT
+SUMMARY:Overig
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+UID:omrin-2026-01-23-Overig@omrin.nl
+DESCRIPTION:Lever kleding in bij ondergrondse textielcontainers. Ook is er
+  4 x per jaar huis aan huis inzameling op de aangegeven datum. Kijk voor m
+ eer informatie op oldebroek.nl/afval.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overig
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+UID:omrin-2026-07-17-Overig@omrin.nl
+DESCRIPTION:Lever kleding in bij ondergrondse textielcontainers. Ook is er
+  4 x per jaar huis aan huis inzameling op de aangegeven datum. Kijk voor m
+ eer informatie op oldebroek.nl/afval.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overig
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+UID:omrin-2026-10-16-Overig@omrin.nl
+DESCRIPTION:Lever kleding in bij ondergrondse textielcontainers. Ook is er
+  4 x per jaar huis aan huis inzameling op de aangegeven datum. Kijk voor m
+ eer informatie op oldebroek.nl/afval.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overig
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+UID:omrin-2026-12-04-Overig@omrin.nl
+DESCRIPTION:Lever kleding in bij ondergrondse textielcontainers. Ook is er
+  4 x per jaar huis aan huis inzameling op de aangegeven datum. Kijk voor m
+ eer informatie op oldebroek.nl/afval.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+UID:omrin-2026-01-29-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -11,6 +53,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+UID:omrin-2026-02-12-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -18,6 +62,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+UID:omrin-2026-02-26-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -25,6 +71,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+UID:omrin-2026-03-12-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -32,6 +80,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+UID:omrin-2026-03-26-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -39,6 +89,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+UID:omrin-2026-04-09-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -46,6 +98,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+UID:omrin-2026-04-23-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -53,6 +107,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+UID:omrin-2026-05-07-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -60,6 +116,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+UID:omrin-2026-05-21-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -67,6 +125,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+UID:omrin-2026-06-04-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -74,6 +134,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+UID:omrin-2026-06-18-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -81,6 +143,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+UID:omrin-2026-07-02-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -88,6 +152,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+UID:omrin-2026-07-16-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -95,6 +161,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+UID:omrin-2026-07-30-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -102,6 +170,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+UID:omrin-2026-08-13-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -109,6 +179,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+UID:omrin-2026-08-27-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -116,6 +188,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+UID:omrin-2026-09-10-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -123,6 +197,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+UID:omrin-2026-09-24-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -130,6 +206,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+UID:omrin-2026-10-08-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -137,6 +215,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+UID:omrin-2026-10-22-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -144,6 +224,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+UID:omrin-2026-11-05-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -151,6 +233,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+UID:omrin-2026-11-19-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -158,6 +242,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+UID:omrin-2026-12-03-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -165,6 +251,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gft
 DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+UID:omrin-2026-12-17-Gft@omrin.nl
 DESCRIPTION:Zet de GFTe container op de aangegeven datum voor 7.30 uur aan
   de weg.
 TRANSP:TRANSPARENT
@@ -172,6 +260,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papier
 DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+UID:omrin-2026-01-12-Papier@omrin.nl
 DESCRIPTION:Zet de papiercontainer op de aangeven datum voor 7.30 uur aan 
  de weg.
 TRANSP:TRANSPARENT
@@ -179,6 +269,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papier
 DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+UID:omrin-2026-01-26-Papier@omrin.nl
 DESCRIPTION:Zet de papiercontainer op de aangeven datum voor 7.30 uur aan 
  de weg.
 TRANSP:TRANSPARENT
@@ -186,6 +278,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papier
 DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+UID:omrin-2026-02-23-Papier@omrin.nl
 DESCRIPTION:Zet de papiercontainer op de aangeven datum voor 7.30 uur aan 
  de weg.
 TRANSP:TRANSPARENT
@@ -193,6 +287,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papier
 DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+UID:omrin-2026-03-23-Papier@omrin.nl
 DESCRIPTION:Zet de papiercontainer op de aangeven datum voor 7.30 uur aan 
  de weg.
 TRANSP:TRANSPARENT
@@ -200,6 +296,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papier
 DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+UID:omrin-2026-04-20-Papier@omrin.nl
 DESCRIPTION:Zet de papiercontainer op de aangeven datum voor 7.30 uur aan 
  de weg.
 TRANSP:TRANSPARENT
@@ -207,6 +305,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papier
 DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+UID:omrin-2026-05-18-Papier@omrin.nl
 DESCRIPTION:Zet de papiercontainer op de aangeven datum voor 7.30 uur aan 
  de weg.
 TRANSP:TRANSPARENT
@@ -214,6 +314,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papier
 DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+UID:omrin-2026-06-15-Papier@omrin.nl
 DESCRIPTION:Zet de papiercontainer op de aangeven datum voor 7.30 uur aan 
  de weg.
 TRANSP:TRANSPARENT
@@ -221,6 +323,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papier
 DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+UID:omrin-2026-07-13-Papier@omrin.nl
 DESCRIPTION:Zet de papiercontainer op de aangeven datum voor 7.30 uur aan 
  de weg.
 TRANSP:TRANSPARENT
@@ -228,6 +332,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papier
 DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+UID:omrin-2026-08-10-Papier@omrin.nl
 DESCRIPTION:Zet de papiercontainer op de aangeven datum voor 7.30 uur aan 
  de weg.
 TRANSP:TRANSPARENT
@@ -235,6 +341,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papier
 DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+UID:omrin-2026-09-07-Papier@omrin.nl
 DESCRIPTION:Zet de papiercontainer op de aangeven datum voor 7.30 uur aan 
  de weg.
 TRANSP:TRANSPARENT
@@ -242,6 +350,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papier
 DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+UID:omrin-2026-10-05-Papier@omrin.nl
 DESCRIPTION:Zet de papiercontainer op de aangeven datum voor 7.30 uur aan 
  de weg.
 TRANSP:TRANSPARENT
@@ -249,6 +359,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papier
 DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+UID:omrin-2026-11-02-Papier@omrin.nl
 DESCRIPTION:Zet de papiercontainer op de aangeven datum voor 7.30 uur aan 
  de weg.
 TRANSP:TRANSPARENT
@@ -256,6 +368,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papier
 DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+UID:omrin-2026-11-30-Papier@omrin.nl
 DESCRIPTION:Zet de papiercontainer op de aangeven datum voor 7.30 uur aan 
  de weg.
 TRANSP:TRANSPARENT
@@ -263,6 +377,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Papier
 DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+UID:omrin-2026-12-28-Papier@omrin.nl
 DESCRIPTION:Zet de papiercontainer op de aangeven datum voor 7.30 uur aan 
  de weg.
 TRANSP:TRANSPARENT
@@ -270,6 +386,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+UID:omrin-2026-01-06-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -277,6 +395,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+UID:omrin-2026-01-20-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -284,6 +404,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+UID:omrin-2026-02-03-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -291,6 +413,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+UID:omrin-2026-02-17-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -298,6 +422,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+UID:omrin-2026-03-03-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -305,6 +431,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+UID:omrin-2026-03-17-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -312,6 +440,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+UID:omrin-2026-03-31-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -319,6 +449,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+UID:omrin-2026-04-14-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -326,6 +458,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+UID:omrin-2026-04-28-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -333,6 +467,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+UID:omrin-2026-05-12-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -340,6 +476,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+UID:omrin-2026-05-26-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -347,6 +485,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+UID:omrin-2026-06-09-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -354,6 +494,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+UID:omrin-2026-06-23-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -361,6 +503,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+UID:omrin-2026-07-07-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -368,6 +512,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+UID:omrin-2026-07-21-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -375,6 +521,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+UID:omrin-2026-08-04-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -382,6 +530,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+UID:omrin-2026-08-18-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -389,6 +539,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+UID:omrin-2026-09-01-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -396,6 +548,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+UID:omrin-2026-09-15-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -403,6 +557,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+UID:omrin-2026-09-29-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -410,6 +566,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+UID:omrin-2026-10-13-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -417,6 +575,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+UID:omrin-2026-10-27-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -424,6 +584,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+UID:omrin-2026-11-10-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -431,6 +593,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+UID:omrin-2026-11-24-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -438,6 +602,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+UID:omrin-2026-12-08-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
 TRANSP:TRANSPARENT
@@ -445,8 +611,140 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Restafval
 DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+UID:omrin-2026-12-22-Restafval@omrin.nl
 DESCRIPTION:Zet de restafvalcontainer op de aangegeven datum voor 7.30 uur
   aan de weg.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grofvuil
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+UID:omrin-2026-01-07-Grofvuil@omrin.nl
+DESCRIPTION:Breng grofvuil naar Milieustraat Broeklanden of laat het tegen
+  betaling ophalen op de aangegeven datum. Kijk voor aanmelden op remondis-
+ shop.nl/grofvuil-veluwe.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grofvuil
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+UID:omrin-2026-02-04-Grofvuil@omrin.nl
+DESCRIPTION:Breng grofvuil naar Milieustraat Broeklanden of laat het tegen
+  betaling ophalen op de aangegeven datum. Kijk voor aanmelden op remondis-
+ shop.nl/grofvuil-veluwe.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grofvuil
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+UID:omrin-2026-03-04-Grofvuil@omrin.nl
+DESCRIPTION:Breng grofvuil naar Milieustraat Broeklanden of laat het tegen
+  betaling ophalen op de aangegeven datum. Kijk voor aanmelden op remondis-
+ shop.nl/grofvuil-veluwe.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grofvuil
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+UID:omrin-2026-04-01-Grofvuil@omrin.nl
+DESCRIPTION:Breng grofvuil naar Milieustraat Broeklanden of laat het tegen
+  betaling ophalen op de aangegeven datum. Kijk voor aanmelden op remondis-
+ shop.nl/grofvuil-veluwe.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grofvuil
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+UID:omrin-2026-04-29-Grofvuil@omrin.nl
+DESCRIPTION:Breng grofvuil naar Milieustraat Broeklanden of laat het tegen
+  betaling ophalen op de aangegeven datum. Kijk voor aanmelden op remondis-
+ shop.nl/grofvuil-veluwe.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grofvuil
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+UID:omrin-2026-05-27-Grofvuil@omrin.nl
+DESCRIPTION:Breng grofvuil naar Milieustraat Broeklanden of laat het tegen
+  betaling ophalen op de aangegeven datum. Kijk voor aanmelden op remondis-
+ shop.nl/grofvuil-veluwe.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grofvuil
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+UID:omrin-2026-06-24-Grofvuil@omrin.nl
+DESCRIPTION:Breng grofvuil naar Milieustraat Broeklanden of laat het tegen
+  betaling ophalen op de aangegeven datum. Kijk voor aanmelden op remondis-
+ shop.nl/grofvuil-veluwe.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grofvuil
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+UID:omrin-2026-07-22-Grofvuil@omrin.nl
+DESCRIPTION:Breng grofvuil naar Milieustraat Broeklanden of laat het tegen
+  betaling ophalen op de aangegeven datum. Kijk voor aanmelden op remondis-
+ shop.nl/grofvuil-veluwe.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grofvuil
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+UID:omrin-2026-08-19-Grofvuil@omrin.nl
+DESCRIPTION:Breng grofvuil naar Milieustraat Broeklanden of laat het tegen
+  betaling ophalen op de aangegeven datum. Kijk voor aanmelden op remondis-
+ shop.nl/grofvuil-veluwe.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grofvuil
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+UID:omrin-2026-09-16-Grofvuil@omrin.nl
+DESCRIPTION:Breng grofvuil naar Milieustraat Broeklanden of laat het tegen
+  betaling ophalen op de aangegeven datum. Kijk voor aanmelden op remondis-
+ shop.nl/grofvuil-veluwe.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grofvuil
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+UID:omrin-2026-10-14-Grofvuil@omrin.nl
+DESCRIPTION:Breng grofvuil naar Milieustraat Broeklanden of laat het tegen
+  betaling ophalen op de aangegeven datum. Kijk voor aanmelden op remondis-
+ shop.nl/grofvuil-veluwe.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grofvuil
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+UID:omrin-2026-11-11-Grofvuil@omrin.nl
+DESCRIPTION:Breng grofvuil naar Milieustraat Broeklanden of laat het tegen
+  betaling ophalen op de aangegeven datum. Kijk voor aanmelden op remondis-
+ shop.nl/grofvuil-veluwe.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grofvuil
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+UID:omrin-2026-12-09-Grofvuil@omrin.nl
+DESCRIPTION:Breng grofvuil naar Milieustraat Broeklanden of laat het tegen
+  betaling ophalen op de aangegeven datum. Kijk voor aanmelden op remondis-
+ shop.nl/grofvuil-veluwe.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
