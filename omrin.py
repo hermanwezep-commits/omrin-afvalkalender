@@ -17,7 +17,7 @@ import uuid
 import requests
 import sys
 import argparse
-from datetime import datetime, date, time
+from datetime import datetime, date, time, timedelta
 from icalendar import Calendar, Event
 
 BASE_URL = "https://api.omrinafvalapp.nl"
@@ -116,6 +116,8 @@ def create_calendar(calendar_data):
         event.add('summary', summary)
         event.add('description', description)
         event.add('dtstart', item_date)
+        event.add('dtend', item_date + timedelta(days=1))
+        event.add('uid', f"omrin-{item_date.isoformat()}-{summary}@omrin.nl")
         event.add('transp', 'TRANSPARENT')  # Make events not show up as 'busy'
 
         cal.add_component(event)
